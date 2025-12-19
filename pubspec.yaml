@@ -1,0 +1,57 @@
+name: my_app
+description: "A new Flutter project."
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^6.0.0
+
+
+flutter:
+
+  
+  uses-material-design: true
+  assets:
+    - assets/order filter2.png
+    - assets/order filter3.png
+    - assets/order filter4.png
+    - assets/order filter2(1).png
+    - assets/health.png
+    - assets/1.png
+    - assets/2.png
+    - assets/3.png
+    - assets/4.png
+    - assets/paul-cuoco-CO2vOhPqlrM-unsplash.jpg
+    - assets/tadeusz-lakota-Tb38UzCvKCY-unsplash.jpg
+    - assets/shreesha-bhat-lz6z9GZu8hk-unsplash.jpg
+    - assets/andrik-langfield-0rTCXZM7Xfo-unsplash.jpg
+    - assets/alvaro-bernal-RgIKRYhmG2k-unsplash.jpg
+    - assets/lip1.jpg
+    - assets/lip2.jpg
+    - assets/lip3.jpg
+    - assets/lip4.jpg
+    - assets/lip5.jpg
+    - assets/lip6.jpg
+    - assets/cream1.jpg
+    - assets/cream2.jpg
+    - assets/cream3.jpg
+    - assets/cream4.jpg
+    - assets/cream5.jpg
+    - assets/cream6.jpg
+    - assets/cream7.jpg
